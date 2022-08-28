@@ -1,0 +1,225 @@
+Title,Price,Opening,About,Detail,Skill,Location
+Teaching,"7,000-25,000 /month",20,"Selected intern's day-to-day responsibilities include:
+
+1. Travel to the student's location & deliver lessons
+2. Teach any preferential class from nursery to 12th (academics)
+3. Teach at your preferential zones (nearby your locality)
+4. Teach from 14 hours/week to 48 hours/week","Nerdy Academy is a professional home service provider for students of classes nursery to 12. We revolutionize the tutoring industry with one-to-one education. Nerdy was founded in the June of 2013. Since then we have been evolving, enchanting, and happening to cities, people, tutors, and ideas. With a workforce of 200 tutors in each city, Nerdy is growing, one city at a time. Our tutors are wide & versatile in their qualifications & designations. We aim to cover the globe. We'll make learning personalized. We'll eliminate unemployment by generating jobs. Believe us when we say, we can & we will. We are operational in the cities of Indore, Bhopal, Raipur, Bhilai & Durg.","['Hindi Proficiency (Spoken)', 'Teaching']","['Delhi', 'Noida', 'Bhilai', 'Durg', 'Mumbai', 'Raipur', 'Bhilai', 'Durg', 'Mumbai', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon', 'Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon', 'Bhilai', 'Bhilai', 'Bhilai', 'Durg', 'Raipur', 'Bhilai', 'Durg', 'Raipur', 'Akola', 'Bhilai', 'Amravati', 'Nagpur', 'Akola', 'Bhilai', 'Amravati', 'Nagpur', 'Bhilai', 'Bhilai', 'Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra', 'Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul', 'Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar', 'Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar', 'Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra', 'Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra', 'Bhilai', 'Durg', 'Mumbai', 'Raipur', 'Bhilai', 'Durg', 'Mumbai', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon', 'Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon', 'Bhilai', 'Bhilai', 'Bhilai', 'Durg', 'Raipur', 'Bhilai', 'Durg', 'Raipur', 'Akola', 'Bhilai', 'Amravati', 'Nagpur', 'Akola', 'Bhilai', 'Amravati', 'Nagpur', 'Bhilai', 'Bhilai', 'Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra', 'Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul', 'Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar', 'Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar', 'Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra', 'Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra', 'Bhilai', 'Durg', 'Mumbai', 'Raipur', 'Bhilai', 'Durg', 'Mumbai', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur', 'Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon', 'Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon', 'Bhilai', 'Bhilai', 'Bhilai', 'Durg', 'Raipur', 'Bhilai', 'Durg', 'Raipur', 'Akola', 'Bhilai', 'Amravati', 'Nagpur', 'Akola', 'Bhilai', 'Amravati', 'Nagpur', 'Bhilai', 'Bhilai', 'Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra', 'Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul', 'Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul', 'Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar', 'Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar', 'Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra', 'Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra', 'Bhilai', 'Durg', 'Mumbai', 'Raipur']"
+Teaching,"7,000-25,000 /month",20,"Selected intern's day-to-day responsibilities include:
+
+1. Travel to the student's location & deliver lessons
+2. Teach any preferential class from nursery to 12th (academics)
+3. Teach at your preferential zones (nearby your locality)
+4. Teach from 14 hours/week to 48 hours/week","Nerdy Academy is a professional home service provider for students of classes nursery to 12. We revolutionize the tutoring industry with one-to-one education. Nerdy was founded in the June of 2013. Since then we have been evolving, enchanting, and happening to cities, people, tutors, and ideas. With a workforce of 200 tutors in each city, Nerdy is growing, one city at a time. Our tutors are wide & versatile in their qualifications & designations. We aim to cover the globe. We'll make learning personalized. We'll eliminate unemployment by generating jobs. Believe us when we say, we can & we will. We are operational in the cities of Indore, Bhopal, Raipur, Bhilai & Durg.","['Hindi Proficiency (Spoken)', 'Teaching']","['Bhilai', 'Durg', 'Mumbai', 'Raipur']"
+Office Administration,"3,000-8,000 /month",5,"Selected intern's day-to-day responsibilities include:
+
+1. Working on backend tasks
+2. Handling admin panel
+3. Coordinating with the team
+4. Sending e-mail and messages","iNAVMO (Mind Power Education LLP) was formed in 2008 and has been imparting brain development programs across multiple schools and institutes in various parts of India since then. Over 5000 students have undergone our various programs at our franchise centers and schools and have seen huge benefits in their goals. The founders are based out of Seattle, Washington USA and the company was registered in New Delhi. The offices are located in Kota, Raipur, and Chhattisgarh. Our programs are a boon for children and enable them to improve the brain functions holistically, of both left and the right brain.","['English Proficiency (Spoken)', 'English Proficiency (Written)', 'MS-Excel', 'MS-Office']","['Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur']"
+Office Administration,"3,000-8,000 /month",5,"Selected intern's day-to-day responsibilities include:
+
+1. Working on backend tasks
+2. Handling admin panel
+3. Coordinating with the team
+4. Sending e-mail and messages","iNAVMO (Mind Power Education LLP) was formed in 2008 and has been imparting brain development programs across multiple schools and institutes in various parts of India since then. Over 5000 students have undergone our various programs at our franchise centers and schools and have seen huge benefits in their goals. The founders are based out of Seattle, Washington USA and the company was registered in New Delhi. The offices are located in Kota, Raipur, and Chhattisgarh. Our programs are a boon for children and enable them to improve the brain functions holistically, of both left and the right brain.","['English Proficiency (Spoken)', 'English Proficiency (Written)', 'MS-Excel', 'MS-Office']","['Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur']"
+Marketing,"3,000-8,000 /month",10,"Selected intern's day-to-day responsibilities include:
+
+1. Work on calling and converting clients
+2. Work on data entries in Excel sheet
+3. Work on e-mail marketing","iNAVMO (Mind Power Education LLP) was formed in 2008 and has been imparting brain development programs across multiple schools and institutes in various parts of India since then. Over 5000 students have undergone our various programs at our franchise centers and schools and have seen huge benefits in their goals. The founders are based out of Seattle, Washington USA and the company was registered in New Delhi. The offices are located in Kota, Raipur, and Chhattisgarh. Our programs are a boon for children and enable them to improve the brain functions holistically, of both left and the right brain.","['Client Relationship', 'Digital Advertising', 'Email Marketing', 'English Proficiency (Spoken)']","['Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur']"
+Marketing,"3,000-8,000 /month",10,"Selected intern's day-to-day responsibilities include:
+
+1. Work on calling and converting clients
+2. Work on data entries in Excel sheet
+3. Work on e-mail marketing","iNAVMO (Mind Power Education LLP) was formed in 2008 and has been imparting brain development programs across multiple schools and institutes in various parts of India since then. Over 5000 students have undergone our various programs at our franchise centers and schools and have seen huge benefits in their goals. The founders are based out of Seattle, Washington USA and the company was registered in New Delhi. The offices are located in Kota, Raipur, and Chhattisgarh. Our programs are a boon for children and enable them to improve the brain functions holistically, of both left and the right brain.","['Client Relationship', 'Digital Advertising', 'Email Marketing', 'English Proficiency (Spoken)']","['Bhilai', 'Bilaspur', 'Raigarh', 'Durg', 'Raipur']"
+Event Promotion,"6,000 /week",3,"Selected intern's day-to-day responsibilities include:
+
+1. Work on visitor promotions for the business event
+2. Work on the distribution of event invitations in and around the city to prospective visitors
+3. Work on compiling the business data in Excel","Peppermint Communications, is a 20-year-old organization, specializing in publishing, events, brand communications, advertising, web, and multimedia. The company is the mouthpiece of the Indian intimate apparel industry with their leading and only trade publication - Inner Secrets. The company is going through a phase of extraordinary growth and new business acquisitions.","['English Proficiency (Spoken)', 'Hindi Proficiency (Spoken)']","['Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon']"
+Event Promotion,"6,000 /week",3,"Selected intern's day-to-day responsibilities include:
+
+1. Work on visitor promotions for the business event
+2. Work on the distribution of event invitations in and around the city to prospective visitors
+3. Work on compiling the business data in Excel","Peppermint Communications, is a 20-year-old organization, specializing in publishing, events, brand communications, advertising, web, and multimedia. The company is the mouthpiece of the Indian intimate apparel industry with their leading and only trade publication - Inner Secrets. The company is going through a phase of extraordinary growth and new business acquisitions.","['English Proficiency (Spoken)', 'Hindi Proficiency (Spoken)']","['Ambikapur', 'Bhilai', 'Bilaspur', 'Durg', 'Chandrapur', 'Raipur', 'Korba', 'Ratanpur', 'Rajnandgaon']"
+International HR And Staffing,"2,000 /month",20,"Selected intern's day-to-day responsibilities include:
+
+1. Recruit for international staffing roles
+2. Learn technical recruiting
+3. Learn various technologies to find the best talents","Central Business Solutions, Incorporation (CBS)'s mission is to become a leader in providing business solutions with its niche products and services to businesses worldwide.
+
+Incorporated in the year 2000, Central Business Solutions, Incorporation (CBS) has become a pioneer in providing business solutions and services to various organizations worldwide. Our organization has provided services to various small and big organizations, including fortune 500 companies.","['Certificate', 'Letter of recommendation', 'Flexible work hours', 'Informal dress code', '5 days a week', 'Free snacks & beverages', 'Job offer']",['Bhilai']
+International HR And Staffing,"2,000 /month",20,"Selected intern's day-to-day responsibilities include:
+
+1. Recruit for international staffing roles
+2. Learn technical recruiting
+3. Learn various technologies to find the best talents","Central Business Solutions, Incorporation (CBS)'s mission is to become a leader in providing business solutions with its niche products and services to businesses worldwide.
+
+Incorporated in the year 2000, Central Business Solutions, Incorporation (CBS) has become a pioneer in providing business solutions and services to various organizations worldwide. Our organization has provided services to various small and big organizations, including fortune 500 companies.","['Certificate', 'Letter of recommendation', 'Flexible work hours', 'Informal dress code', '5 days a week', 'Free snacks & beverages', 'Job offer']",['Bhilai']
+Business Development (Sales),"5,000-25,000 /month",20,"Selected intern's day-to-day responsibilities include:
+
+1. Handling tasks related to calls, computers, meetings, and HR
+2. Handling office work (70%)
+3. Working on on-field sales (30%)","Nerdy Academy is a professional home service provider for students of classes nursery to 12. We revolutionize the tutoring industry with one-to-one education. Nerdy was founded in the June of 2013. Since then we have been evolving, enchanting, and happening to cities, people, tutors, and ideas. With a workforce of 200 tutors in each city, Nerdy is growing, one city at a time. Our tutors are wide & versatile in their qualifications & designations. We aim to cover the globe. We'll make learning personalized. We'll eliminate unemployment by generating jobs. Believe us when we say, we can & we will. We are operational in the cities of Indore, Bhopal, Raipur, Bhilai & Durg.","['English Proficiency (Spoken)', 'Sales']","['Bhilai', 'Durg', 'Raipur']"
+Business Development (Sales),"5,000-25,000 /month",20,"Selected intern's day-to-day responsibilities include:
+
+1. Handling tasks related to calls, computers, meetings, and HR
+2. Handling office work (70%)
+3. Working on on-field sales (30%)","Nerdy Academy is a professional home service provider for students of classes nursery to 12. We revolutionize the tutoring industry with one-to-one education. Nerdy was founded in the June of 2013. Since then we have been evolving, enchanting, and happening to cities, people, tutors, and ideas. With a workforce of 200 tutors in each city, Nerdy is growing, one city at a time. Our tutors are wide & versatile in their qualifications & designations. We aim to cover the globe. We'll make learning personalized. We'll eliminate unemployment by generating jobs. Believe us when we say, we can & we will. We are operational in the cities of Indore, Bhopal, Raipur, Bhilai & Durg.","['English Proficiency (Spoken)', 'Sales']","['Bhilai', 'Durg', 'Raipur']"
+Web Development,"5,000 /month",3,"Selected intern's day-to-day responsibilities include:
+
+1. Working on front end application development
+2. Working on UI/UX development
+3.backend development
+4.website maintenance","The company is active in healthcare wearables and working on smart mask products to help people breathe pure air and detect, control, monitor asthma.","['CSS', 'HTML', 'JavaScript', 'jQuery', 'Node.js']","['Akola', 'Bhilai', 'Amravati', 'Nagpur']"
+Web Development,"5,000 /month",3,"Selected intern's day-to-day responsibilities include:
+
+1. Working on front end application development
+2. Working on UI/UX development
+3.backend development
+4.website maintenance","The company is active in healthcare wearables and working on smart mask products to help people breathe pure air and detect, control, monitor asthma.","['CSS', 'HTML', 'JavaScript', 'jQuery', 'Node.js']","['Akola', 'Bhilai', 'Amravati', 'Nagpur']"
+Digital Marketing,"7,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Develop a brand style guide to ensure consistency in marketing efforts
+2. Create a multi-channel marketing content strategy
+3. Manage external partners for marketing collateral creation
+4. Track KPIs of marketing campaigns
+5. Write marketing messages for online and offline campaigns
+6. Create an editorial calendar
+7. Plan and execute all digital marketing, including SEO/SEM, marketing database, email
+8. Identify trends and insights, and optimize spend and performance based on the insights
+9. Brainstorm new and creative growth strategies
+10. Plan, execute, and measure experiments and conversion tests
+11. Collaborate with internal teams to create landing pages and optimize the user experience
+12. Utilize the strong analytical ability to evaluate end-to-end customer experience across multiple channels and customer touch points
+13. Instrument conversion points and optimize user funnels
+14. Evaluate emerging technologies. Provide thought leadership and perspective for adoption where appropriate","Carfy India Private Limited is a Private incorporated on 17 October 2019. It is classified as Non-govt company and is registered at Registrar of Companies, Chhattisgarh.
+CARFY online car accessories app has widest range of products on wholesale price
+
+CARFY ONLINE Car Accessories Shop App has the range of accessories.
+
+Car Stereo & Car accessories : carfy car accessories online shop app in India, now available on google play store for Android Mobile App. We offer car accessories, car stereo android range and parts in retail as well as wholesale all over in India with doorstep delivery.
+
+We offer a wide range of Genuine Car Accessories App in India.","['Creative Writing', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Marketing', 'Instagram Marketing', 'Search Engine Marketing (SEM)', 'Search Engine Optimization (SEO)', 'Social Media Marketing']",['Bhilai']
+Digital Marketing,"7,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Develop a brand style guide to ensure consistency in marketing efforts
+2. Create a multi-channel marketing content strategy
+3. Manage external partners for marketing collateral creation
+4. Track KPIs of marketing campaigns
+5. Write marketing messages for online and offline campaigns
+6. Create an editorial calendar
+7. Plan and execute all digital marketing, including SEO/SEM, marketing database, email
+8. Identify trends and insights, and optimize spend and performance based on the insights
+9. Brainstorm new and creative growth strategies
+10. Plan, execute, and measure experiments and conversion tests
+11. Collaborate with internal teams to create landing pages and optimize the user experience
+12. Utilize the strong analytical ability to evaluate end-to-end customer experience across multiple channels and customer touch points
+13. Instrument conversion points and optimize user funnels
+14. Evaluate emerging technologies. Provide thought leadership and perspective for adoption where appropriate","Carfy India Private Limited is a Private incorporated on 17 October 2019. It is classified as Non-govt company and is registered at Registrar of Companies, Chhattisgarh.
+CARFY online car accessories app has widest range of products on wholesale price
+
+CARFY ONLINE Car Accessories Shop App has the range of accessories.
+
+Car Stereo & Car accessories : carfy car accessories online shop app in India, now available on google play store for Android Mobile App. We offer car accessories, car stereo android range and parts in retail as well as wholesale all over in India with doorstep delivery.
+
+We offer a wide range of Genuine Car Accessories App in India.","['Creative Writing', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Marketing', 'Instagram Marketing', 'Search Engine Marketing (SEM)', 'Search Engine Optimization (SEO)', 'Social Media Marketing']",['Bhilai']
+Social Media Marketing,"2,000-5,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Work alongside the team to create a plan for social media strategies monthly
+2. Assist in the growth of the brand by raising awareness through various social media platforms
+3. Monitor postings to ensure the brand message is constant from the terminology used to images posted
+4. Aid in the daily aspects of promoting the businesses campaigns
+5. Interact with followers and potential customers by communicating and answering questions through the company's social pages
+6. Assist in implementing plans to increase followers on popular social media websites such as Twitter, Pinterest, Facebook, YouTube, and LinkedIn
+7. Oversee the creation and implementation of a monthly editorial that includes monthly sales objectives and initiatives
+8. Help create content as dictated by the monthly editorial calendar to promote sales, blogs, and products
+9. Work with the social media marketing managers to run ads, plan campaigns, and publish content","Digi Jugad Private Limited is a new age and young 360-degree marketing agency, helping brands and businesses generate leads for new-age startups and small businesses. As a marketing agency, we focus on the overall growth of a brand by engaging in 360-degree marketing.","['Creative Writing', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Marketing', 'Instagram Marketing', 'Search Engine Marketing (SEM)', 'Search Engine Optimization (SEO)', 'Social Media Marketing']","['Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra']"
+Social Media Marketing,"2,000-5,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Work alongside the team to create a plan for social media strategies monthly
+2. Assist in the growth of the brand by raising awareness through various social media platforms
+3. Monitor postings to ensure the brand message is constant from the terminology used to images posted
+4. Aid in the daily aspects of promoting the businesses campaigns
+5. Interact with followers and potential customers by communicating and answering questions through the company's social pages
+6. Assist in implementing plans to increase followers on popular social media websites such as Twitter, Pinterest, Facebook, YouTube, and LinkedIn
+7. Oversee the creation and implementation of a monthly editorial that includes monthly sales objectives and initiatives
+8. Help create content as dictated by the monthly editorial calendar to promote sales, blogs, and products
+9. Work with the social media marketing managers to run ads, plan campaigns, and publish content","Digi Jugad Private Limited is a new age and young 360-degree marketing agency, helping brands and businesses generate leads for new-age startups and small businesses. As a marketing agency, we focus on the overall growth of a brand by engaging in 360-degree marketing.","['Creative Writing', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Marketing', 'Instagram Marketing', 'Search Engine Marketing (SEM)', 'Search Engine Optimization (SEO)', 'Social Media Marketing']","['Bhilai', 'Durg', 'Balod', 'Khairagarh', 'Kawardha', 'Baloda Bazaar', 'Raipur', 'Kumhari', 'Ahiwara', 'Rajnandgaon', 'Bhilai Charoda', 'Patan', 'Utai', 'Anjora', 'Bemetra']"
+Business Development (Sales),"2,000-5,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Working closely with the manager or assigned staff member and completing all allocated tasks
+2. Conducting research or gathering information through surveys or by speaking to clients
+3. Researching and generating lists of potential customers & check-in eligibility/qualification criteria of the given leads
+4. Observing and carrying out sales processes
+5. Assisting managers with negotiations
+6. Keeping a log of everything learned and delivering presentations to staff and other stakeholders
+7. Prospecting potential customers by phone/email
+8. Selling products or services to those clients
+9. Managing client's portfolios
+10. Managing the sales process
+11. Identifying new development channels
+12. Following-up for sales
+13. Promoting the company and its product/service","Digi Jugad Private Limited is a new age and young 360-degree marketing agency, helping brands and businesses generate leads for new-age startups and small businesses. As a marketing agency, we focus on the overall growth of a brand by engaging in 360-degree marketing.","['Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'MS-Excel', 'Social Media Marketing']","['Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora']"
+Business Development (Sales),"2,000-5,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Working closely with the manager or assigned staff member and completing all allocated tasks
+2. Conducting research or gathering information through surveys or by speaking to clients
+3. Researching and generating lists of potential customers & check-in eligibility/qualification criteria of the given leads
+4. Observing and carrying out sales processes
+5. Assisting managers with negotiations
+6. Keeping a log of everything learned and delivering presentations to staff and other stakeholders
+7. Prospecting potential customers by phone/email
+8. Selling products or services to those clients
+9. Managing client's portfolios
+10. Managing the sales process
+11. Identifying new development channels
+12. Following-up for sales
+13. Promoting the company and its product/service","Digi Jugad Private Limited is a new age and young 360-degree marketing agency, helping brands and businesses generate leads for new-age startups and small businesses. As a marketing agency, we focus on the overall growth of a brand by engaging in 360-degree marketing.","['Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'MS-Excel', 'Social Media Marketing']","['Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Bemetra', 'Ahiwara', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora']"
+Digital Marketing,"2,000-5,000 /month",2,"Selected intern's day-to-day responsibilities include:
+
+1. Work with the digital marketing manager to refine social media strategy and best practices
+2. Assist in managing social media channels (Facebook, Twitter, Pinterest Instagram, LinkedIn) and editorial calendar to ensure content is timely, relevant, and engaging
+3. Manage search engine rankings and approachability (Like Google, YouTube, etc.)
+4. Prepare weekly updates and reports to track the growth and success rates of campaigns
+5. Keep up to date and informed on new social media trends and adapt accordingly
+6. Ensure proper messaging is being executed online
+7. Identify leaders and influencers (internal/external) and engage them in brand activities
+8. Assist with website copywriting proofing, and updating as needed
+9. Work on managing SEO and Google Ads
+10. Use marketing technology and automation software (training will be provided)","We are a 21st-century digital marketing firm, our mission is to help small businesses and startups communicate better. We strive to create personalized solutions to empower the digital marketing journey. We are a one-stop-shop solution for all things digital, located at the heart of the educational hub of central region Bhilai, Chhattisgarh.","['Creative Writing', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Marketing', 'Instagram Marketing', 'Search Engine Marketing (SEM)', 'Search Engine Optimization (SEO)', 'Social Media Marketing']","['Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul']"
+Digital Marketing,"2,000-5,000 /month",2,"Selected intern's day-to-day responsibilities include:
+
+1. Work with the digital marketing manager to refine social media strategy and best practices
+2. Assist in managing social media channels (Facebook, Twitter, Pinterest Instagram, LinkedIn) and editorial calendar to ensure content is timely, relevant, and engaging
+3. Manage search engine rankings and approachability (Like Google, YouTube, etc.)
+4. Prepare weekly updates and reports to track the growth and success rates of campaigns
+5. Keep up to date and informed on new social media trends and adapt accordingly
+6. Ensure proper messaging is being executed online
+7. Identify leaders and influencers (internal/external) and engage them in brand activities
+8. Assist with website copywriting proofing, and updating as needed
+9. Work on managing SEO and Google Ads
+10. Use marketing technology and automation software (training will be provided)","We are a 21st-century digital marketing firm, our mission is to help small businesses and startups communicate better. We strive to create personalized solutions to empower the digital marketing journey. We are a one-stop-shop solution for all things digital, located at the heart of the educational hub of central region Bhilai, Chhattisgarh.","['Creative Writing', 'Digital Marketing', 'Email Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Facebook Marketing', 'Instagram Marketing', 'Search Engine Marketing (SEM)', 'Search Engine Optimization (SEO)', 'Social Media Marketing']","['Bhilai', 'Durg', 'Bemetara', 'Khairagarh', 'Kawardha', 'Raipur', 'Naya Raipur', 'Kumhari', 'Ahiwara', 'Kurud', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Anjora', 'Jamul']"
+Content Writing,"2,000-3,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Creating compelling headlines and body copy that will capture the attention of the target audience
+2. Developing content for blogs, articles, product descriptions, social media, and the company website
+3. Creating content marketing campaigns to drive leads and subscribers
+4. Using SEO best practices to generate traffic to our site","We are a 21st-century digital marketing firm, our mission is to help small businesses and startups communicate better. We strive to create personalized solutions to empower the digital marketing journey. We are a one-stop-shop solution for all things digital, located at the heart of the educational hub of central region Bhilai, Chhattisgarh.","['Blogging', 'Copywriting', 'Creative Writing', 'Digital Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Hindi Proficiency (Written)', 'Instagram Marketing', 'Search Engine Optimization (SEO)', 'Social Media Marketing']","['Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar']"
+Content Writing,"2,000-3,000 /month",4,"Selected intern's day-to-day responsibilities include:
+
+1. Creating compelling headlines and body copy that will capture the attention of the target audience
+2. Developing content for blogs, articles, product descriptions, social media, and the company website
+3. Creating content marketing campaigns to drive leads and subscribers
+4. Using SEO best practices to generate traffic to our site","We are a 21st-century digital marketing firm, our mission is to help small businesses and startups communicate better. We strive to create personalized solutions to empower the digital marketing journey. We are a one-stop-shop solution for all things digital, located at the heart of the educational hub of central region Bhilai, Chhattisgarh.","['Blogging', 'Copywriting', 'Creative Writing', 'Digital Marketing', 'English Proficiency (Spoken)', 'English Proficiency (Written)', 'Hindi Proficiency (Written)', 'Instagram Marketing', 'Search Engine Optimization (SEO)', 'Social Media Marketing']","['Bhilai', 'Durg', 'Khairagarh', 'Kawardha', 'Raipur', 'Kumhari', 'Charoda', 'Rajnandgaon', 'Bhilai Charoda', 'Durg Bhalai', 'Bhilai Charoda M Part', 'Bemetra', 'Jamul', 'Bhilaibazar']"
+Goonj Grassroots Fellowship 2021-22,"10,000 /month","Selected intern's day-to-day responsibilities include:
+
+1. Learning in-depth about issues like infrastructural development, menstrual health, education, livelihood and disaster relief-rehabilitation etc.
+2. Working on ground with Goonj operational and field teams in Assam, Bundelkhand, Chattisgarh, Odisha, Karnataka, Rajasthan, Bihar, Maharashtra, Delhi, Tamil Nadu, West Bengal, etc.
+3. Capacity building workshops, shadowing experience with sector specialists apart from hands on training about key skills like communication, financial planning, monitoring and evaluation etc.","Goonj Grassroot Fellowship is a year-long program, where fellows will be working in various areas by engaging with the communities on ground. During the one year, fellows interact with various communities from villages as well as cities and get a deeper understanding of the realities and devise ways to act upon the needs of the communities by engaging the communities.","Goonj envisions to grow as an idea across regions, economies, and countries using urban discard as a tool to alleviate poverty and enhance the dignity of the poor in the world. Address basic but neglected issues of the poor by involving them in evolving their own solutions with dignity and urban material as a reward.",[],"['Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra']"
+Goonj Grassroots Fellowship 2021-22,"10,000 /month","Selected intern's day-to-day responsibilities include:
+
+1. Learning in-depth about issues like infrastructural development, menstrual health, education, livelihood and disaster relief-rehabilitation etc.
+2. Working on ground with Goonj operational and field teams in Assam, Bundelkhand, Chattisgarh, Odisha, Karnataka, Rajasthan, Bihar, Maharashtra, Delhi, Tamil Nadu, West Bengal, etc.
+3. Capacity building workshops, shadowing experience with sector specialists apart from hands on training about key skills like communication, financial planning, monitoring and evaluation etc.","Goonj Grassroot Fellowship is a year-long program, where fellows will be working in various areas by engaging with the communities on ground. During the one year, fellows interact with various communities from villages as well as cities and get a deeper understanding of the realities and devise ways to act upon the needs of the communities by engaging the communities.","Goonj envisions to grow as an idea across regions, economies, and countries using urban discard as a tool to alleviate poverty and enhance the dignity of the poor in the world. Address basic but neglected issues of the poor by involving them in evolving their own solutions with dignity and urban material as a reward.",[],"['Delhi', 'Bhilai', 'Bihar', 'Rajasthan', 'Maharashtra']"
